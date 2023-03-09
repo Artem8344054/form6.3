@@ -18,7 +18,7 @@
     Телефон: $phone /n
     Почта: $email /n
     Текст: $text"; 	
-	mail($to, $subject, $msg, "From: $to ");
+	mail($to, $subject, $msg, "From: $to");
 
 ?>
 
